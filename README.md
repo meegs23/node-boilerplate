@@ -40,7 +40,7 @@ Other important files that have convential meaning
 - [Socket.IO](http://socket.io) - Real time web framework.  Websockets with fall back strategies.
 - [Backbone](http://documentcloud.github.com/backbone/) - Client side MVC framework
 - [nConf](https://github.com/flatiron/nconf) - Node configuration helper
-- [Mocha](http://visionmedia.github.com/mocha/) - Unit testing framework
+- [Mocha](https://mochajs.org/) - Unit testing framework
 - [Should](https://github.com/visionmedia/should.js) - Helper module to BDD assertions
 
 ###Code format
